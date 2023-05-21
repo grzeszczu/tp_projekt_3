@@ -1,0 +1,14 @@
+# Target labels
+ sdl2_mixer-populate
+# Source files and their labels
+C:/tp_projekt_3/build/_deps/sdl2_mixer-subbuild/CMakeFiles/sdl2_mixer-populate
+C:/tp_projekt_3/build/_deps/sdl2_mixer-subbuild/CMakeFiles/sdl2_mixer-populate.rule
+C:/tp_projekt_3/build/_deps/sdl2_mixer-subbuild/CMakeFiles/sdl2_mixer-populate-complete.rule
+C:/tp_projekt_3/build/_deps/sdl2_mixer-subbuild/sdl2_mixer-populate-prefix/src/sdl2_mixer-populate-stamp/sdl2_mixer-populate-build.rule
+C:/tp_projekt_3/build/_deps/sdl2_mixer-subbuild/sdl2_mixer-populate-prefix/src/sdl2_mixer-populate-stamp/sdl2_mixer-populate-configure.rule
+C:/tp_projekt_3/build/_deps/sdl2_mixer-subbuild/sdl2_mixer-populate-prefix/src/sdl2_mixer-populate-stamp/sdl2_mixer-populate-download.rule
+C:/tp_projekt_3/build/_deps/sdl2_mixer-subbuild/sdl2_mixer-populate-prefix/src/sdl2_mixer-populate-stamp/sdl2_mixer-populate-install.rule
+C:/tp_projekt_3/build/_deps/sdl2_mixer-subbuild/sdl2_mixer-populate-prefix/src/sdl2_mixer-populate-stamp/sdl2_mixer-populate-mkdir.rule
+C:/tp_projekt_3/build/_deps/sdl2_mixer-subbuild/sdl2_mixer-populate-prefix/src/sdl2_mixer-populate-stamp/sdl2_mixer-populate-patch.rule
+C:/tp_projekt_3/build/_deps/sdl2_mixer-subbuild/sdl2_mixer-populate-prefix/src/sdl2_mixer-populate-stamp/sdl2_mixer-populate-test.rule
+C:/tp_projekt_3/build/_deps/sdl2_mixer-subbuild/sdl2_mixer-populate-prefix/src/sdl2_mixer-populate-stamp/sdl2_mixer-populate-update.rule
